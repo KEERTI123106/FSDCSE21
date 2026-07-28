@@ -1,7 +1,7 @@
 // function multiply(a,b){
 // console.log(a * b);
 // }
-// multiply(20,10);/
+// multiply(20,10);
 
 // function add(a,b){
 //     return a+b;
@@ -27,3 +27,5 @@
     // addNum(1,2,4,5,3,7,5,3,5,2);
 //DOM DOES NOT WORK IN BACKEND
 //DOM RUNS IN BROWSER WHEREAS NODE.JS GIVES OUTPUT ON SCREEN ITSELF
+//DOM is for front end
+
