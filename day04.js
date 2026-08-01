@@ -25,11 +25,9 @@ console.log("this is async/await");
 async function test(){
     console.log("1");
     console.log("2");
-    await console.log("3");
+    await console.log("3");     //here await function keep next element on hold
     console.log("4");  
 }
 test();
 console.log("6");
-
-
 

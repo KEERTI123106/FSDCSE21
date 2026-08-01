@@ -1,0 +1,123 @@
+[
+  {
+    "id": 1,
+    "name": "Aarav Sharma",
+    "age": 18,
+    "gender": "Male",
+    "course": "Computer Science",
+    "year": 1,
+    "email": "aarav.sharma@example.com",
+    "phone": "9876543210",
+    "city": "Delhi",
+    "marks": 88
+  },
+  {
+    "id": 2,
+    "name": "Priya Verma",
+    "age": 19,
+    "gender": "Female",
+    "course": "Information Technology",
+    "year": 2,
+    "email": "priya.verma@example.com",
+    "phone": "9876543211",
+    "city": "Mumbai",
+    "marks": 92
+  },
+  {
+    "id": 3,
+    "name": "Rohan Mehta",
+    "age": 20,
+    "gender": "Male",
+    "course": "Electronics",
+    "year": 3,
+    "email": "rohan.mehta@example.com",
+    "phone": "9876543212",
+    "city": "Pune",
+    "marks": 76
+  },
+  {
+    "id": 4,
+    "name": "Sneha Gupta",
+    "age": 18,
+    "gender": "Female",
+    "course": "Mechanical Engineering",
+    "year": 1,
+    "email": "sneha.gupta@example.com",
+    "phone": "9876543213",
+    "city": "Jaipur",
+    "marks": 85
+  },
+  {
+    "id": 5,
+    "name": "Karan Singh",
+    "age": 21,
+    "gender": "Male",
+    "course": "Civil Engineering",
+    "year": 4,
+    "email": "karan.singh@example.com",
+    "phone": "9876543214",
+    "city": "Lucknow",
+    "marks": 81
+  },
+  {
+    "id": 6,
+    "name": "Ananya Patel",
+    "age": 19,
+    "gender": "Female",
+    "course": "Computer Science",
+    "year": 2,
+    "email": "ananya.patel@example.com",
+    "phone": "9876543215",
+    "city": "Ahmedabad",
+    "marks": 95
+  },
+  {
+    "id": 7,
+    "name": "Vikram Rao",
+    "age": 20,
+    "gender": "Male",
+    "course": "Electrical Engineering",
+    "year": 3,
+    "email": "vikram.rao@example.com",
+    "phone": "9876543216",
+    "city": "Hyderabad",
+    "marks": 79
+  },
+  {
+    "id": 8,
+    "name": "Neha Joshi",
+    "age": 18,
+    "gender": "Female",
+    "course": "Computer Science",
+    "year": 1,
+    "email": "neha.joshi@example.com",
+    "phone": "9876543217",
+    "city": "Chandigarh",
+    "marks": 90
+  },
+  {
+    "id": 9,
+    "name": "Aditya Nair",
+    "age": 21,
+    "gender": "Male",
+    "course": "Artificial Intelligence",
+    "year": 4,
+    "email": "aditya.nair@example.com",
+    "phone": "9876543218",
+    "city": "Kochi",
+    "marks": 87
+  },
+  {
+    "id": 10,
+    "name": "Isha Kapoor",
+    "age": 19,
+    "gender": "Female",
+    "course": "Data Science",
+    "year": 2,
+    "email": "isha.kapoor@example.com",
+    "phone": "9876543219",
+    "city": "Bhopal",
+    "marks": 93
+  }
+]
+

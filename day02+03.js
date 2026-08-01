@@ -59,20 +59,20 @@
 //in fetch api, we don't use promises directly but bts
 //for resolve use .then() method and for reject use .catch() method
 
-const prom = new Promise((resolve , reject) => {                    //syntax 1 to write promise
-          console.log("promise is here");
-          let a = false;
-          let b = true;
-          if(a==b){
-            resolve("successfull");
-          }else{
-            reject("error");
-          }
-})
-prom.then((result)=>{                                             //using callback fn passing fun in then and catch
-    console.log(result);
-}).catch((error)=>{
+// const prom = new Promise((resolve , reject) => {                    //syntax 1 to write promise
+//           console.log("promise is here");
+//           let a = false;
+//           let b = true;
+//           if(a==b){
+//             resolve("successfull");
+//           }else{
+//             reject("error");
+//           }
+// })
+// prom.then((result)=>{                    //using callback fn passing fun in then and catch
+//     console.log(result);
+// }).catch((error)=>{
 
-    console.log(error);
-})                                   
+//     console.log(error);
+// })                                   
 
