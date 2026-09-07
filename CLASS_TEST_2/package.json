@@ -1,0 +1,16 @@
+{
+  "name": "class_test_2",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "product.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node product.js"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
