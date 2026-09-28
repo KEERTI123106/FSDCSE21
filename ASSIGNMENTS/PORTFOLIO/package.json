@@ -1,0 +1,16 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "keerti",
+  "type": "module",
+  "main": "pf.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node pf.js"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}

@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1,
+    "name": "Alex Rivera",
+    "email": "arivera@campus.edu",
+    "category": "Facilities",
+    "problem": "The elevator in the main library has been out of service since yesterday, blocking wheelchair access.",
+    "priority": "High"
+  },
+  {
+    "id": 2,
+    "name": "Chloe Chen",
+    "email": "cchen@campus.edu",
+    "category": "IT Support",
+    "problem": "Campus Wi-Fi keeps dropping connection in the Science Building during lectures.",
+    "priority": "Medium"
+  },
+  {
+    "id": 3,
+    "name": "Marcus Johnson",
+    "email": "mjohnson@campus.edu",
+    "category": "Housing",
+    "problem": "There is a persistent hot water shortage in the North Residence Hall showers during peak morning hours.",
+    "priority": "High"
+  },
+  {
+    "id": 4,
+    "name": "Emily Taylor",
+    "email": "etaylor@campus.edu",
+    "category": "Academic",
+    "problem": "The online portal is throwing a 500 error whenever I try to register for next semester's elective courses.",
+    "priority": "High"
+  },
+  {
+    "id": 5,
+    "name": "Jordan Smith",
+    "email": "jsmith@campus.edu",
+    "category": "Safety",
+    "problem": "Two streetlights are completely burned out along the dark pathway behind the student union building.",
+    "priority": "High"
+  },
+  {
+    "id": 6,
+    "name": "Sarah Ahmed",
+    "email": "sahmed@campus.edu",
+    "category": "Dining Services",
+    "problem": "The campus cafeteria frequently runs out of vegetarian and vegan options before 1:00 PM.",
+    "priority": "Low"
+  },
+  {
+    "id": 7,
+    "name": "Liam O'Connor",
+    "email": "loconnor@campus.edu",
+    "category": "Facilities",
+    "problem": "The air conditioning unit in Room 304 of the Humanities Building is making a loud rattling noise.",
+    "priority": "Low"
+  },
+  {
+    "id": 8,
+    "name": "Sofia Rodriguez",
+    "email": "srodriguez@campus.edu",
+    "category": "Finance",
+    "problem": "My student account is showing a duplicate charge for the campus health insurance fee.",
+    "priority": "Medium"
+  },
+  {
+    "id": 9,
+    "name": "David Kim",
+    "email": "dkim@campus.edu",
+    "category": "Parking",
+    "problem": "The automated gate barrier at Parking Structure B is failing to read student ID cards properly.",
+    "priority": "Medium"
+  },
+  {
+    "id": 10,
+    "name": "Maya Patel",
+    "email": "mpatel@campus.edu",
+    "category": "IT Support",
+    "problem": "I cannot access the campus printing network from my personal laptop despite following the setup guide.",
+    "priority": "Low"
+  },
+  {
+    "id": 11,
+    "name": "Keerti",
+    "email": "keerti@gmail.com",
+    "category": "IT Support",
+    "problem": "WiFi is not working",
+    "priority": "High"
+  }
+]
