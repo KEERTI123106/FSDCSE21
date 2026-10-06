@@ -29,8 +29,7 @@ function App() {
   // Load requests when page opens
   useEffect(() => {
     getRequests();
-  }, []);
-
+  }, []); 
 
   // ADD / UPDATE request
 const handleSubmit = async (e) => {

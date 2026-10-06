@@ -1,0 +1,29 @@
+h1{
+    color:blue;
+}
+
+.submit-btn{
+    background-color: green;
+    color:aliceblue;
+    height: 35px;
+}
+
+.del-btn{
+    background-color: red;
+}
+
+.label{
+    font-weight: bold;
+}
+
+.main{
+    color:orange;
+}
+
+.heading{
+    background-color: pink;
+}
+
+.price{
+    width: 175px;
+}

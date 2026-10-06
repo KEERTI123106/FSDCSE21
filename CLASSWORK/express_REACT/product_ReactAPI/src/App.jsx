@@ -1,3 +1,4 @@
+import "./App.css"
 import { useEffect, useState } from "react";
 
 function App() {
@@ -74,14 +75,13 @@ function App() {
 
   return (
     <div>
-
-      <h1>Product Management System</h1>
+      <h1>PRODUCT MANAGEMENT SYSTEM</h1>
 
 
       {/* Add Product Form */}
 
       <form onSubmit={addProduct}>
-
+       <label className="label">PRODUCT NAME : </label>
         <input
           type="text"
           placeholder="Enter Product Name"
@@ -89,13 +89,18 @@ function App() {
           onChange={(e) => setName(e.target.value)}
         />
         <br></br>
+        <br></br>
+        <label className="label">PRODUCT PRICE : </label>
         <input
+          className="price"
           type="number"
-          placeholder="Enter Product Price"
+          placeholder="Enter Product Price(in Rs.)"
           value={price}
           onChange={(e) => setPrice(e.target.value)}
         />
         <br></br>
+        <br></br>
+        <label className="label">AVAILABILITY : </label>
         <input
           type="text"
           placeholder="inStock"
@@ -103,7 +108,8 @@ function App() {
           onChange={(e) => setInStock(e.target.value)}
         />
         <br></br>
-        <button type="submit">
+        <br></br>
+        <button type="submit" className="submit-btn">
           Add Product
         </button>
 
@@ -114,12 +120,14 @@ function App() {
 
 
       {/* Product Table */}
-
-      <table border="1" width="1000px" cellPadding="10">
+      <div>
+      <h1 className="main">DASHBOARD TABLE</h1>
+      <hr></hr>
+      <table border="1" width="1000px" cellPadding="10" >
 
         <thead>
 
-          <tr>
+          <tr className="heading">
             <th>ID</th>
             <th>Name</th>
             <th>Price</th>
@@ -147,7 +155,7 @@ function App() {
               <td>
 
                 <button
-                  onClick={() => deleteProduct(product.id)}
+                  className="del-btn" onClick={() => deleteProduct(product.id)}
                 >
                   Delete
                 </button>
@@ -161,7 +169,7 @@ function App() {
         </tbody>
 
       </table>
-
+     </div>
     </div>
   );
 }

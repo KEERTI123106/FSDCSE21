@@ -79,12 +79,20 @@
     "problem": "I cannot access the campus printing network from my personal laptop despite following the setup guide.",
     "priority": "Low"
   },
-  {
+  { 
     "id": 11,
     "name": "Keerti",
     "email": "keerti@gmail.com",
     "category": "IT Support",
     "problem": "WiFi is not working",
     "priority": "High"
+  },
+  {
+    "id": 12,
+    "name": "keerti",
+    "email": "keerti1206@gmail.com",
+    "category": "IT Support",
+    "problem": "worst",
+    "priority": "Medium"
   }
 ]
